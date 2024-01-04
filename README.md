@@ -34,8 +34,8 @@ I'm a technology enthusiast and a problem-solver at heart. I use data analysis a
 
 If you have any questions or want to work together on a project, don't hesitate to reach out via email or connect with me on social media. 💬
 
-- Email: javier.flores@ia.center
-- LinkedIn: [Javier Alejandro Flores](https://www.linkedin.com/in/xavierfloresx2/)
+- Email: brandon.ali.camacho.s@gmail.com
+- LinkedIn: [Brandon Camacho Sandoval](www.linkedin.com/in/bacswolf/)
 - Twitter: [@javierflores](https://twitter.com/JavierfloresX2)
 
 Thank you for visiting my profile! I hope to hear from you soon 🤗
