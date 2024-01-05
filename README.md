@@ -14,8 +14,6 @@ I'm a technology enthusiast and a problem-solver at heart. I use data analysis a
 - Machine learning and predictive modeling 🤖
 - TensorFlow for NLP and computer vision 🔥
 - Python :snake:
-- Flutter :eyeglasses:
-- React :rocket:
 - Spark :fire:
 
 ## Soft Skills
