@@ -15,6 +15,7 @@ I'm a technology enthusiast and a problem-solver at heart. I use data analysis a
 - TensorFlow for NLP and computer vision 🔥
 - Python :snake:
 - Spark :fire:
+- java 🍵
 
 ## Soft Skills
 
